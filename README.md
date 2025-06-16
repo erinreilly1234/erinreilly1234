@@ -4,7 +4,6 @@
     - also have dabbled with species distribution modeling with remote sensing inputs
     - fun stuff!
 - 🌱 I’m still learning this whole _coding_ thing
-- 🐠 I love to work on cool projects. 
 - 🏄‍♀️ Fun fact: I make my own surboards! yahooo!
 
 <!---
